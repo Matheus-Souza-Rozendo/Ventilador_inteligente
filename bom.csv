@@ -1,0 +1,12 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"U2",1," LCD 16 x 2"
+"R1",1,"270 Ω Resistor"
+"M1",1," Motor CC"
+"Q1",1," TIP120"
+"U3",1,"50 V Diodo Zener"
+"U4",1," Sensor de infravermelho"
+"R2",1,"10 kΩ Resistor"
+"U5",1," Sensor de temperatura [TMP36]"
+"PIR1",1,"73.58672846910173 , -255.7567976575406  Sensor PIR"
+"BAT1",1," Bateria 9V"
