@@ -14,6 +14,12 @@ Não é mais nescessario sair da cama para  ligar o ventilador em um dia quente,
 ### Display LCD
 Para vizualizar as informações de configuração do aparelho
 
+### Sensor de presença
+Não se preocupe em desligar o ventilador, ele possui um sensor de presença, e caso não tenha ninguem no ambiente o mesmo desligará sozinho.
+
+### Modo soneca
+Caso não queira que o ventilador desligue por falta de movimentação no ambiente, basta ativar o modo soneca
+
 ## Como Usar
 Para ligar basta apertar o botão `ON`
 
@@ -22,6 +28,10 @@ Para desligar basta apertar o botão `OFF`
 Para aumentar a temperatura configurada, aperte o Botão `Seta para cima`
 
 Para diminuir a temperatura configurada, aperte o Botão `Seta para baixo`
+
+Para ativar o modo soneca, aperte o botão `0`
+
+Para desativar o modo soneca, aperte o botão `1`
 
 ## Veja funcionando
 [Link Simulação](https://www.tinkercad.com/things/eBXjTGiWD5T)
