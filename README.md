@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Matheus-Souza-Rozendo/Ventilador_inteligente)
+![GitHub](https://img.shields.io/github/license/Matheus-Souza-Rozendo/Ventilador_inteligente)
+![GitHub language count](https://img.shields.io/github/languages/count/Matheus-Souza-Rozendo/Ventilador_inteligente)
+![GitHub top language](https://img.shields.io/github/languages/top/Matheus-Souza-Rozendo/Ventilador_inteligente)
 # Ventilador Inteligente
 Já imaginou ter o conforto de um ar-condicionado num ventilador e ainda economizar energia ?
 
