@@ -19,7 +19,7 @@ Não é mais nescessario sair da cama para  ligar o ventilador em um dia quente,
 Para vizualizar as informações de configuração do aparelho
 
 ### Sensor de presença
-Não se preocupe em desligar o ventilador, ele possui um sensor de presença, e caso não tenha ninguem no ambiente o mesmo desligará sozinho.
+Não se preocupe em desligar o ventilador, ele possui um sensor de presença, e caso não tenha ninguém  no ambiente o mesmo desligará sozinho.
 
 ### Modo soneca
 Caso não queira que o ventilador desligue por falta de movimentação no ambiente, basta ativar o modo soneca
